@@ -34,5 +34,5 @@
 
 ## Voeding
 - ESP32 -> 5V via USB
-- Sensoren -> 3.3V of 5V (afhankelijk van module)
+- Sensoren -> 5V 
 - Alle GND verbonden samen
