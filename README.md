@@ -71,4 +71,10 @@ Via Blynk kan je:
 ---
 
 ## 🎥 Demo video
-Link: https://youtu.be/6bmW4w0Qr7U?feature=shared
+In deze video toon ik:
+- Personen tellen
+- Niet storen functie
+- Geluidsdetectie
+- Blynk app werking
+
+[Bekijk de video](https://www.youtube.com/watch?v=6bmW4w0Qr7U)
