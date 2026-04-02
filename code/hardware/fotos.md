@@ -1,7 +1,8 @@
 # Hardware foto's
 
 ## Overzicht
-![WhatsApp Image 2026-03-30 at 21 15 41](https://github.com/user-attachments/assets/ac2e4da9-723b-4f44-b151-eb4811642ad7)
+![WhatsApp Image 2026-04-02 at 21 11 15](https://github.com/user-attachments/assets/157ba953-0cfa-4052-a83d-e98c4014e0d4)
+
 
 ## LCD scherm
 ![WhatsApp Image 2026-03-30 at 21 18 39](https://github.com/user-attachments/assets/aaa95f96-4b8c-4e6d-9f45-0ea425be0b51)
