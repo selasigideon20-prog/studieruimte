@@ -14,23 +14,12 @@
 ## Input
 - BUTTON -> GPIO 10 (INPUT_PULLUP)
 
-## LCD (16x2)
-- RS -> GPIO 12
-- E  -> GPIO 5
-- D4 -> GPIO 6
-- D5 -> GPIO 7
-- D6 -> GPIO 15
-- D7 -> GPIO 18
+## LCD (I2C 16x2)
+- SDA -> GPIO 6
+- SCL -> GPIO 7
+- VCC -> 5V
+- GND -> GND
 
-## LCD extra aansluitingen
-- VSS -> GND
-- VDD -> 5V
-- RW  -> GND
-- VO  -> potentiometer (contrast)
-
-## Backlight LCD
-- A (LED+) -> 5V
-- K (LED-) -> GND
 
 ## Voeding
 - ESP32 -> 5V via USB
