@@ -20,8 +20,8 @@
 LiquidCrystal lcd(12, 5, 6, 7, 15, 18);
 
 // WiFi
-const char* ssid = "telenet-8CE4526";
-const char* password = "d4Wcunppeejj";
+const char* ssid = "";
+const char* password = "";
 
 WebServer server(80);
 
